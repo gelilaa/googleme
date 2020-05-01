@@ -7,5 +7,6 @@ six
 seven 
 eight
 nine this tis my secont edit
-this is the first branch
-am adding on the master
+this is the first branch <<<<<<< second-branchthis is the second branch
+am adding on the master>>>>>>> master
+
